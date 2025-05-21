@@ -1,0 +1,11 @@
+ Feature	       req.params	                                                req.body
+Comes from	       URL path (e.g., /api/users/:id)	                            Request body (e.g., JSON in POST/PUT)
+Used in	           Mainly in GET, PUT, DELETE routes with dynamic URL values	Mainly in POST and PUT requests where client sends data
+Accessed via	   req.params	                                                req.body
+
+
+
+
+
+
+
